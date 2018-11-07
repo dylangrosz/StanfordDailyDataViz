@@ -88,7 +88,7 @@ centerText
 	.text('total reports from Sept. 2016 - Aug. 2017')
 
 // Policy Violations annotation in upper right (which we append to center, then shift)
-const topRightX = 0.21 * width
+const topRightX = 0.29 * width
 const topRightY = - 0.4 * height
 centerText
 	.append('tspan')
